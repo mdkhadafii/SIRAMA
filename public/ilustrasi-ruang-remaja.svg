@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" role="img" aria-labelledby="title desc">
+  <title id="title">Ruang belajar dan berbincang bersama</title>
+  <desc id="desc">Ilustrasi editorial tiga remaja duduk berbincang di sekitar meja dengan buku dan tanaman.</desc>
+  <rect width="720" height="560" fill="#E7F0EC"/>
+  <path d="M0 442c111-41 205-27 314 1s262 40 406-13v130H0Z" fill="#D6E6DF"/>
+  <circle cx="555" cy="129" r="72" fill="#F2D9C9"/>
+  <path d="M113 117h219v280H113z" fill="#F9FCFA" stroke="#B6CDC3" stroke-width="3"/>
+  <path d="M222 117v280M113 257h219" stroke="#B6CDC3" stroke-width="3"/>
+  <path d="M125 387h40" stroke="#C06F4F" stroke-width="10" stroke-linecap="round"/>
+  <path d="M358 371h281v28H358z" fill="#A85F47"/>
+  <path d="M383 398v106m229-106v106" stroke="#784735" stroke-width="13" stroke-linecap="round"/>
+  <path d="M276 304c0-43 33-78 74-78s75 35 75 78v76H276z" fill="#0F766E"/>
+  <circle cx="350" cy="205" r="40" fill="#B97855"/>
+  <path d="M309 199c2-37 25-56 53-54 24 2 40 22 37 49-21-5-40-17-50-31-8 17-20 29-40 36Z" fill="#283F3C"/>
+  <path d="M278 331c-28-12-51-9-68 9l-31 44h98" fill="#0F766E"/>
+  <circle cx="236" cy="325" r="27" fill="#D8A07C"/>
+  <path d="M209 325c-3-26 11-44 31-44 21 0 32 19 24 39-17-3-27-11-32-20-4 13-11 20-23 25Z" fill="#342E37"/>
+  <path d="M444 320c0-33 25-60 57-60s58 27 58 60v56H444z" fill="#7A5C83"/>
+  <circle cx="500" cy="248" r="31" fill="#8E5D45"/>
+  <path d="M470 247c0-27 16-44 37-44 24 0 36 18 29 41-13-3-27-11-36-22-6 11-16 19-30 25Z" fill="#252B35"/>
+  <path d="M352 346h54l17 28h-89z" fill="#F7F1E7" stroke="#B7C7C0" stroke-width="2"/>
+  <path d="M374 356h19m-19 7h27" stroke="#0F766E" stroke-width="3" stroke-linecap="round"/>
+  <path d="M589 360h36l-4 12h-30z" fill="#D38A64"/>
+  <path d="M607 360c-1-26-13-35-21-46m21 46c2-29 15-40 24-48m-23 47c-12-18-23-21-34-23" fill="none" stroke="#2D7563" stroke-width="6" stroke-linecap="round"/>
+  <path d="M169 445c-8-28-9-51 1-70m-1 31c-13-14-23-16-33-16m34 6c9-18 19-24 30-27" fill="none" stroke="#47806D" stroke-width="7" stroke-linecap="round"/>
+  <path d="M347 470c30 15 64 15 96 0" fill="none" stroke="#EAA87B" stroke-width="5" stroke-linecap="round"/>
+</svg>
+
